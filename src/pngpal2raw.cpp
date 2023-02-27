@@ -429,7 +429,7 @@ struct SmallSpriteV1 {
  */
 struct JontySpriteV1 {
     /** Offset of the sprite data in DAT file. */
-    size_t Data;
+    uint32_t Data;
     /** Width of the sprite data. */
     unsigned char SWidth;
     /** Height of the sprite data. */
