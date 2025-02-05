@@ -23,7 +23,7 @@
 #include <vector>
 #include <climits>
 #include <getopt.h>
-
+#include <cstdint>
 #include <cstring>
 #include <cmath>
 #include <fstream>
@@ -1658,5 +1658,3 @@ int main(int argc, char* argv[])
 
     return 0;
 }
-
-
